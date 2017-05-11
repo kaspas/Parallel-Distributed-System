@@ -1,0 +1,278 @@
+Lena64x64
+
+
+Shared Image: 64x64 patchSize: 3x3 
+Z kernel : 0.011803 ,  f kernel: 0.011791  
+
+ The peak -SNR value is 30.527817
+ The SNR value is 23.776129 
+
+
+Shared Image: 64x64 patchSize: 3x3 
+Z kernel : 0.011710 ,  f kernel: 0.011719  
+
+ The peak -SNR value is 30.421829
+ The SNR value is 23.670139 
+
+
+Shared Image: 64x64 patchSize: 5x5 
+Z kernel : 0.024642 ,  f kernel: 0.024477  
+
+ The peak -SNR value is 31.804831
+ The SNR value is 25.053143 
+
+
+Shared Image: 64x64 patchSize: 5x5 
+Z kernel : 0.024641 ,  f kernel: 0.024475  
+
+ The peak -SNR value is 31.847513
+ The SNR value is 25.095825 
+
+
+Shared Image: 64x64 patchSize: 7x7 
+Z kernel : 0.043310 ,  f kernel: 0.042990  
+
+ The peak -SNR value is 31.956491
+ The SNR value is 25.204802 
+
+
+Shared Image: 64x64 patchSize: 7x7 
+Z kernel : 0.043084 ,  f kernel: 0.042706  
+
+ The peak -SNR value is 32.070286
+ The SNR value is 25.318596 
+
+Lena 128x128
+
+
+Shared Image: 128x128 patchSize: 3x3 
+Z kernel : 0.113098 ,  f kernel: 0.113899  
+
+ The peak -SNR value is 30.709398
+ The SNR value is 24.116707 
+
+
+Shared Image: 128x128 patchSize: 3x3 
+Z kernel : 0.113093 ,  f kernel: 0.113910  
+
+ The peak -SNR value is 30.711241
+ The SNR value is 24.118547 
+
+
+Shared Image: 128x128 patchSize: 5x5 
+Z kernel : 0.239805 ,  f kernel: 0.238675  
+
+ The peak -SNR value is 31.587526
+ The SNR value is 24.994833 
+
+
+Shared Image: 128x128 patchSize: 5x5 
+Z kernel : 0.239817 ,  f kernel: 0.238666  
+
+ The peak -SNR value is 31.497267
+ The SNR value is 24.904575 
+
+
+Shared Image: 128x128 patchSize: 7x7 
+Z kernel : 0.423850 ,  f kernel: 0.420768  
+
+ The peak -SNR value is 31.695618
+ The SNR value is 25.102928 
+
+
+Shared Image: 128x128 patchSize: 7x7 
+Z kernel : 0.423849 ,  f kernel: 0.420763  
+
+ The peak -SNR value is 31.817949
+ The SNR value is 25.225258 
+
+Lena 256x256
+
+
+
+
+Shared Image: 256x256 patchSize: 3x3 
+Z kernel : 1.609285 ,  f kernel: 1.623284  
+
+ The peak -SNR value is 31.280794
+ The SNR value is 24.611027 
+
+
+Shared Image: 256x256 patchSize: 3x3 
+Z kernel : 1.609315 ,  f kernel: 1.623316  
+
+ The peak -SNR value is 31.285667
+ The SNR value is 24.615900 
+
+
+Shared Image: 256x256 patchSize: 5x5 
+Z kernel : 3.420814 ,  f kernel: 3.407562  
+
+ The peak -SNR value is 31.554356
+ The SNR value is 24.884588 
+
+
+Shared Image: 256x256 patchSize: 5x5 
+Z kernel : 3.420990 ,  f kernel: 3.407456  
+
+ The peak -SNR value is 31.578163
+ The SNR value is 24.908398 
+
+
+Shared Image: 256x256 patchSize: 7x7 
+Z kernel : 6.054817 ,  f kernel: 6.012793  
+
+ The peak -SNR value is 31.688004
+ The SNR value is 25.018236 
+
+
+Shared Image: 256x256 patchSize: 7x7 
+Z kernel : 6.054370 ,  f kernel: 6.012804  
+
+ The peak -SNR value is 31.713551
+ The SNR value is 25.043783 
+
+
+ hs 64x64
+
+
+
+Shared Image: 64x64 patchSize: 3x3 
+Z kernel : 0.011711 ,  f kernel: 0.011712  
+
+ The peak -SNR value is 30.943727
+ The SNR value is 26.072620 
+
+
+Shared Image: 64x64 patchSize: 3x3 
+Z kernel : 0.011708 ,  f kernel: 0.011713  
+
+ The peak -SNR value is 30.652372
+ The SNR value is 25.781267 
+
+
+Shared Image: 64x64 patchSize: 5x5 
+Z kernel : 0.024509 ,  f kernel: 0.024328  
+
+ The peak -SNR value is 32.682674
+ The SNR value is 27.811567 
+
+
+Shared Image: 64x64 patchSize: 5x5 
+Z kernel : 0.024508 ,  f kernel: 0.024320  
+
+ The peak -SNR value is 32.952957
+ The SNR value is 28.081852 
+
+
+Shared Image: 64x64 patchSize: 7x7 
+Z kernel : 0.043313 ,  f kernel: 0.043004  
+
+ The peak -SNR value is 33.384968
+ The SNR value is 28.513861 
+
+
+Shared Image: 64x64 patchSize: 7x7 
+Z kernel : 0.043081 ,  f kernel: 0.042705  
+
+ The peak -SNR value is 33.194031
+ The SNR value is 28.322927 
+
+hs 128x128
+
+
+
+Shared Image: 128x128 patchSize: 3x3 
+Z kernel : 0.113401 ,  f kernel: 0.114285  
+
+ The peak -SNR value is 31.900276
+ The SNR value is 26.994543 
+
+
+Shared Image: 128x128 patchSize: 3x3 
+Z kernel : 0.113419 ,  f kernel: 0.114300  
+
+ The peak -SNR value is 31.701256
+ The SNR value is 26.795521 
+
+
+Shared Image: 128x128 patchSize: 5x5 
+Z kernel : 0.240391 ,  f kernel: 0.239544  
+
+ The peak -SNR value is 33.574490
+ The SNR value is 28.668755 
+
+
+Shared Image: 128x128 patchSize: 5x5 
+Z kernel : 0.240387 ,  f kernel: 0.239526  
+
+ The peak -SNR value is 33.636578
+ The SNR value is 28.730841 
+
+
+Shared Image: 128x128 patchSize: 7x7 
+Z kernel : 0.425140 ,  f kernel: 0.422348  
+
+ The peak -SNR value is 33.813412
+ The SNR value is 28.907679 
+
+
+Shared Image: 128x128 patchSize: 7x7 
+Z kernel : 0.425108 ,  f kernel: 0.422357  
+
+ The peak -SNR value is 34.172672
+ The SNR value is 29.266937 
+
+
+hs 256x256
+
+Shared Image: 256x256 patchSize: 3x3 
+Z kernel : 1.609314 ,  f kernel: 1.623260  
+
+ The peak -SNR value is 32.497562
+ The SNR value is 27.821161 
+
+
+Shared Image: 256x256 patchSize: 3x3 
+Z kernel : 1.609308 ,  f kernel: 1.623368  
+
+ The peak -SNR value is 32.481476
+ The SNR value is 27.805073 
+
+
+Shared Image: 256x256 patchSize: 5x5 
+Z kernel : 3.421003 ,  f kernel: 3.407457  
+
+ The peak -SNR value is 33.237507
+ The SNR value is 28.561106 
+
+
+Shared Image: 256x256 patchSize: 5x5 
+Z kernel : 3.420980 ,  f kernel: 3.407502  
+
+ The peak -SNR value is 33.339966
+ The SNR value is 28.663567 
+
+
+Shared Image: 256x256 patchSize: 7x7 
+Z kernel : 6.054733 ,  f kernel: 6.013249  
+
+ The peak -SNR value is 33.394276
+ The SNR value is 28.717876 
+
+
+Shared Image: 256x256 patchSize: 7x7 
+Z kernel : 6.054784 ,  f kernel: 6.012617  
+
+ The peak -SNR value is 33.391075
+ The SNR value is 28.714674 
+
+baboon 256x256
+
+Shared Image: 256x256 patchSize: 7x7
+Z kernel : 6.054451 ,  f kernel: 6.012860
+
+ The peak -SNR value is 27.522209
+ The SNR value is 23.087542
+
+

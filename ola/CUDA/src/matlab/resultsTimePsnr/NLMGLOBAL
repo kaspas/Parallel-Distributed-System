@@ -1,0 +1,285 @@
+Lena64x64
+
+
+Global memory Image: 64x64 patchSize: 3x3 
+Z kernel : 0.030452 ,  f kernel: 0.029406  
+
+ The peak -SNR value is 29.546356
+ The SNR value is 22.814728 
+
+
+Global memory Image: 64x64 patchSize: 3x3 
+Z kernel : 0.030469 ,  f kernel: 0.029406  
+
+ The peak -SNR value is 29.429665
+ The SNR value is 22.692348 
+
+
+Global memory Image: 64x64 patchSize: 5x5 
+Z kernel : 0.069664 ,  f kernel: 0.065626  
+
+ The peak -SNR value is 31.131294
+ The SNR value is 24.388388 
+
+
+Global memory Image: 64x64 patchSize: 5x5 
+Z kernel : 0.069692 ,  f kernel: 0.065715  
+
+ The peak -SNR value is 31.106874
+ The SNR value is 24.374743 
+
+
+Global memory Image: 64x64 patchSize: 7x7 
+Z kernel : 0.127779 ,  f kernel: 0.119155  
+
+ The peak -SNR value is 31.705015
+ The SNR value is 24.983040 
+
+
+Global memory Image: 64x64 patchSize: 7x7 
+Z kernel : 0.127732 ,  f kernel: 0.119246  
+
+ The peak -SNR value is 31.648272
+ The SNR value is 24.916893 
+
+Lena 128x128
+
+
+Global memory Image: 128x128 patchSize: 3x3 
+Z kernel : 0.241778 ,  f kernel: 0.235119  
+
+ The peak -SNR value is 28.983507
+ The SNR value is 22.405209 
+
+
+Global memory Image: 128x128 patchSize: 3x3 
+Z kernel : 0.241770 ,  f kernel: 0.235010  
+
+ The peak -SNR value is 29.036367
+ The SNR value is 22.461111 
+
+
+Global memory Image: 128x128 patchSize: 5x5 
+Z kernel : 0.555039 ,  f kernel: 0.525640  
+
+ The peak -SNR value is 29.662056
+ The SNR value is 23.091152 
+
+
+Global memory Image: 128x128 patchSize: 5x5 
+Z kernel : 0.554764 ,  f kernel: 0.525339  
+
+ The peak -SNR value is 29.672611
+ The SNR value is 23.101768 
+
+
+Global memory Image: 128x128 patchSize: 7x7 
+Z kernel : 1.019183 ,  f kernel: 0.962289  
+
+ The peak -SNR value is 29.860233
+ The SNR value is 23.290539 
+
+
+Global memory Image: 128x128 patchSize: 7x7 
+Z kernel : 1.018906 ,  f kernel: 0.963721  
+
+ The peak -SNR value is 29.862650
+ The SNR value is 23.291870 
+
+Lena 256x256
+
+
+
+
+Global memory Image: 256x256 patchSize: 3x3 
+Z kernel : 2.408280 ,  f kernel: 2.344127  
+
+ The peak -SNR value is 29.211773
+ The SNR value is 22.562666 
+
+
+Global memory Image: 256x256 patchSize: 3x3 
+Z kernel : 2.409772 ,  f kernel: 2.343722  
+
+ The peak -SNR value is 29.234488
+ The SNR value is 22.585810 
+
+
+Global memory Image: 256x256 patchSize: 5x5 
+Z kernel : 5.669825 ,  f kernel: 5.473767  
+
+ The peak -SNR value is 29.238678
+ The SNR value is 22.586349 
+
+
+Global memory Image: 256x256 patchSize: 5x5 
+Z kernel : 5.670476 ,  f kernel: 5.464188  
+
+ The peak -SNR value is 29.238327
+ The SNR value is 22.588226 
+
+
+Global memory Image: 256x256 patchSize: 7x7 
+Z kernel : 10.276794 ,  f kernel: 9.769906  
+
+ The peak -SNR value is 29.316708
+ The SNR value is 22.670513 
+
+
+Global memory Image: 256x256 patchSize: 7x7 
+Z kernel : 10.259876 ,  f kernel: 9.759521  
+
+ The peak -SNR value is 29.331062
+ The SNR value is 22.681597 
+
+  hs64x64
+
+
+
+Global memory Image: 64x64 patchSize: 3x3 
+Z kernel : 0.030442 ,  f kernel: 0.029412  
+
+ The peak -SNR value is 28.864355
+ The SNR value is 24.010117 
+
+
+Global memory Image: 64x64 patchSize: 3x3 
+Z kernel : 0.030453 ,  f kernel: 0.029417  
+
+ The peak -SNR value is 28.733284
+ The SNR value is 23.870804 
+
+
+Global memory Image: 64x64 patchSize: 5x5 
+Z kernel : 0.069730 ,  f kernel: 0.065795  
+
+ The peak -SNR value is 30.312550
+ The SNR value is 25.458897 
+
+
+Global memory Image: 64x64 patchSize: 5x5 
+Z kernel : 0.069685 ,  f kernel: 0.065792  
+
+ The peak -SNR value is 30.196398
+ The SNR value is 25.345589 
+
+
+Global memory Image: 64x64 patchSize: 7x7 
+Z kernel : 0.127707 ,  f kernel: 0.119291  
+
+ The peak -SNR value is 30.668833
+ The SNR value is 25.802864 
+
+
+Global memory Image: 64x64 patchSize: 7x7 
+Z kernel : 0.127772 ,  f kernel: 0.119115  
+
+ The peak -SNR value is 30.629032
+ The SNR value is 25.771048 
+
+
+hs 128x128
+
+
+
+Global memory Image: 128x128 patchSize: 3x3 
+Z kernel : 0.241800 ,  f kernel: 0.234931  
+
+ The peak -SNR value is 29.051491
+ The SNR value is 24.160370 
+
+
+Global memory Image: 128x128 patchSize: 3x3 
+Z kernel : 0.241793 ,  f kernel: 0.235136  
+
+ The peak -SNR value is 29.029182
+ The SNR value is 24.133324 
+
+
+Global memory Image: 128x128 patchSize: 5x5 
+Z kernel : 0.555683 ,  f kernel: 0.524647  
+
+ The peak -SNR value is 29.935585
+ The SNR value is 25.044010 
+
+
+Global memory Image: 128x128 patchSize: 5x5 
+Z kernel : 0.555144 ,  f kernel: 0.525061  
+
+ The peak -SNR value is 29.813202
+ The SNR value is 24.925854 
+
+
+Global memory Image: 128x128 patchSize: 7x7 
+Z kernel : 1.018856 ,  f kernel: 0.963353  
+
+ The peak -SNR value is 30.017578
+ The SNR value is 25.133396 
+
+
+Global memory Image: 128x128 patchSize: 7x7 
+Z kernel : 1.019212 ,  f kernel: 0.963368  
+
+ The peak -SNR value is 30.108440
+ The SNR value is 25.216501 
+
+Hs 256x256
+
+Global memory Image: 256x256 patchSize: 3x3 
+Z kernel : 2.409007 ,  f kernel: 2.345590  
+
+ The peak -SNR value is 29.352345
+ The SNR value is 24.689962 
+
+
+Global memory Image: 256x256 patchSize: 3x3 
+Z kernel : 2.408275 ,  f kernel: 2.344624  
+
+ The peak -SNR value is 29.308069
+ The SNR value is 24.642342 
+
+
+Global memory Image: 256x256 patchSize: 5x5 
+Z kernel : 5.682030 ,  f kernel: 5.465419  
+
+ The peak -SNR value is 29.517876
+ The SNR value is 24.852043 
+
+
+Global memory Image: 256x256 patchSize: 5x5 
+Z kernel : 5.674590 ,  f kernel: 5.468597  
+
+ The peak -SNR value is 29.527662
+ The SNR value is 24.865017 
+
+
+Global memory Image: 256x256 patchSize: 7x7 
+Z kernel : 10.292001 ,  f kernel: 9.771871  
+
+ The peak -SNR value is 29.634783
+ The SNR value is 24.971144 
+
+
+Global memory Image: 256x256 patchSize: 7x7 
+Z kernel : 10.270393 ,  f kernel: 9.764563  
+
+ The peak -SNR value is 29.610186
+ The SNR value is 24.946402 
+
+
+Global memory Image: 256x256 patchSize: 7x7 
+Z kernel : 10.270155 ,  f kernel: 9.758465  
+
+ The peak -SNR value is 29.595596
+ The SNR value is 24.931908 
+
+
+baboon 256x256
+
+Global memory Image: 256x256 patchSize: 7x7
+Z kernel : 10.275979 ,  f kernel: 9.754630
+
+ The peak -SNR value is 27.002083
+ The SNR value is 22.579996
+
+

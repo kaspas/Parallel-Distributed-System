@@ -1,0 +1,82 @@
+Lena 64 
+3x3 Serial algorithm
+
+Elapsed time is 0.880663 seconds.
+
+ The peak -SNR value is 29.8079
+ The SN value is 23.056178 
+
+Elapsed time is 0.883757 seconds.
+
+ The peak -SNR value is 29.6865
+ The SN value is 22.934845 
+ 
+5x5 Serial algorithm
+
+Elapsed time is 0.921955 seconds.
+
+ The peak -SNR value is 30.1321
+ The SN value is 23.380409 
+
+Elapsed time is 0.922709 seconds.
+
+ The peak -SNR value is 30.1661
+ The SN value is 23.414416 
+
+7x7 Serial algorithm
+
+Elapsed time is 0.941925 seconds.
+
+ The peak -SNR value is 30.0893
+ The SN value is 23.337664
+
+Elapsed time is 0.965948 seconds.
+
+ The peak -SNR value is 30.1002
+ The SN value is 23.348552
+
+Hs64x64
+3x3 Serial algorithm
+Elapsed time is 0.901638 seconds.
+
+ The peak -SNR value is 29.8996
+ The SN value is 25.028548 
+
+Elapsed time is 0.883263 seconds.
+
+ The peak -SNR value is 29.8069
+ The SN value is 24.935791 
+
+5x5 Serial algorithm
+
+Elapsed time is 0.920729 seconds.
+
+ The peak -SNR value is 30.8098
+ The SN value is 25.938722 
+
+Elapsed time is 0.923191 seconds.
+
+ The peak -SNR value is 30.8764
+ The SN value is 26.005308 
+
+7x7 Serial algorithm
+
+Elapsed time is 0.971143 seconds.
+
+ The peak -SNR value is 31.1270
+ The SN value is 26.255902 
+
+Elapsed time is 0.990657 seconds.
+
+ The peak -SNR value is 31.0454
+ The SN value is 26.174359 
+ 
+
+hs 128x128
+3x3 Serial algorithm
+Elapsed time is 13.251761 seconds.
+
+ The peak -SNR value is 31.4826
+ The SN value is 26.576868 
+
+

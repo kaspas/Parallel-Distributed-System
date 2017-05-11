@@ -1,0 +1,285 @@
+Lena64x64
+
+
+Shared With Matlab Image: 66x66 patchSize: 3x3 
+Z kernel : 0.030096 ,  f kernel: 0.026055  
+
+ The peak -SNR value is 28.690451
+ The SNR value is 21.938763 
+
+
+Shared With Matlab Image: 66x66 patchSize: 3x3 
+Z kernel : 0.030132 ,  f kernel: 0.026070  
+
+ The peak -SNR value is 28.608356
+ The SNR value is 21.856667 
+
+
+Shared With Matlab Image: 68x68 patchSize: 5x5 
+Z kernel : 0.049775 ,  f kernel: 0.052253  
+
+ The peak -SNR value is 28.096819
+ The SNR value is 21.345131 
+
+
+Shared With Matlab Image: 68x68 patchSize: 5x5 
+Z kernel : 0.049824 ,  f kernel: 0.052257  
+
+ The peak -SNR value is 27.868343
+ The SNR value is 21.116653 
+
+
+Shared With Matlab Image: 70x70 patchSize: 7x7 
+Z kernel : 0.086285 ,  f kernel: 0.090382  
+
+ The peak -SNR value is 27.678810
+ The SNR value is 20.927122 
+
+
+Shared With Matlab Image: 70x70 patchSize: 7x7 
+Z kernel : 0.086260 ,  f kernel: 0.090349  
+
+ The peak -SNR value is 27.624828
+ The SNR value is 20.873142 
+
+Lena 128x128
+
+
+
+Shared With Matlab Image: 130x130 patchSize: 3x3 
+Z kernel : 0.181714 ,  f kernel: 0.184791  
+
+ The peak -SNR value is 29.912607
+ The SNR value is 23.319914 
+
+
+Shared With Matlab Image: 130x130 patchSize: 3x3 
+Z kernel : 0.181938 ,  f kernel: 0.184615  
+
+ The peak -SNR value is 29.911713
+ The SNR value is 23.319023 
+
+
+Shared With Matlab Image: 132x132 patchSize: 5x5 
+Z kernel : 0.379338 ,  f kernel: 0.394411  
+
+ The peak -SNR value is 29.435205
+ The SNR value is 22.842514 
+
+
+Shared With Matlab Image: 132x132 patchSize: 5x5 
+Z kernel : 0.379746 ,  f kernel: 0.394535  
+
+ The peak -SNR value is 29.352701
+ The SNR value is 22.760010 
+
+
+Shared With Matlab Image: 134x134 patchSize: 7x7 
+Z kernel : 0.668778 ,  f kernel: 0.699160  
+
+ The peak -SNR value is 29.187519
+ The SNR value is 22.594826 
+
+
+Shared With Matlab Image: 134x134 patchSize: 7x7 
+Z kernel : 0.668303 ,  f kernel: 0.699028  
+
+ The peak -SNR value is 29.358320
+ The SNR value is 22.765627 
+
+Lena 256x256
+
+
+
+
+Shared With Matlab Image: 258x258 patchSize: 3x3 
+Z kernel : 1.773508 ,  f kernel: 1.818572  
+
+ The peak -SNR value is 30.958748
+ The SNR value is 24.288980 
+
+
+Shared With Matlab Image: 258x258 patchSize: 3x3 
+Z kernel : 1.773828 ,  f kernel: 1.818942  
+
+ The peak -SNR value is 30.940893
+ The SNR value is 24.271126 
+
+
+Shared With Matlab Image: 260x260 patchSize: 5x5 
+Z kernel : 3.760834 ,  f kernel: 3.911735  
+
+ The peak -SNR value is 30.441229
+ The SNR value is 23.771461 
+
+
+Shared With Matlab Image: 260x260 patchSize: 5x5 
+Z kernel : 3.761324 ,  f kernel: 3.912263  
+
+ The peak -SNR value is 30.455568
+ The SNR value is 23.785803 
+
+
+Shared With Matlab Image: 262x262 patchSize: 7x7 
+Z kernel : 6.655757 ,  f kernel: 6.964159  
+
+ The peak -SNR value is 30.310478
+ The SNR value is 23.640711 
+
+
+Shared With Matlab Image: 262x262 patchSize: 7x7 
+Z kernel : 6.655262 ,  f kernel: 6.964449  
+
+ The peak -SNR value is 30.325363
+ The SNR value is 23.655596 
+
+hs64x64
+
+
+
+Shared With Matlab Image: 66x66 patchSize: 3x3 
+Z kernel : 0.029985 ,  f kernel: 0.026019  
+
+ The peak -SNR value is 27.770935
+ The SNR value is 22.899828 
+
+
+Shared With Matlab Image: 66x66 patchSize: 3x3 
+Z kernel : 0.030038 ,  f kernel: 0.026113  
+
+ The peak -SNR value is 27.691992
+ The SNR value is 22.820885 
+
+
+Shared With Matlab Image: 68x68 patchSize: 5x5 
+Z kernel : 0.049789 ,  f kernel: 0.052309  
+
+ The peak -SNR value is 27.306763
+ The SNR value is 22.435656 
+
+
+Shared With Matlab Image: 68x68 patchSize: 5x5 
+Z kernel : 0.049818 ,  f kernel: 0.052297  
+
+ The peak -SNR value is 27.269253
+ The SNR value is 22.398148 
+
+
+Shared With Matlab Image: 70x70 patchSize: 7x7 
+Z kernel : 0.086118 ,  f kernel: 0.090388  
+
+ The peak -SNR value is 27.133883
+ The SNR value is 22.262775 
+
+
+Shared With Matlab Image: 70x70 patchSize: 7x7 
+Z kernel : 0.086665 ,  f kernel: 0.090460  
+
+ The peak -SNR value is 27.227173
+ The SNR value is 22.356068 
+
+
+hs 128x128
+
+
+
+
+Shared With Matlab Image: 130x130 patchSize: 3x3 
+Z kernel : 0.181811 ,  f kernel: 0.184887  
+
+ The peak -SNR value is 30.085592
+ The SNR value is 25.179859 
+
+
+Shared With Matlab Image: 130x130 patchSize: 3x3 
+Z kernel : 0.181688 ,  f kernel: 0.184778  
+
+ The peak -SNR value is 29.939125
+ The SNR value is 25.033390 
+
+
+Shared With Matlab Image: 132x132 patchSize: 5x5 
+Z kernel : 0.379369 ,  f kernel: 0.394269  
+
+ The peak -SNR value is 29.341097
+ The SNR value is 24.435364 
+
+
+Shared With Matlab Image: 132x132 patchSize: 5x5 
+Z kernel : 0.380109 ,  f kernel: 0.394270  
+
+ The peak -SNR value is 29.541815
+ The SNR value is 24.636080 
+
+
+Shared With Matlab Image: 134x134 patchSize: 7x7 
+Z kernel : 0.667769 ,  f kernel: 0.698347  
+
+ The peak -SNR value is 29.340420
+ The SNR value is 24.434685 
+
+
+Shared With Matlab Image: 134x134 patchSize: 7x7 
+Z kernel : 0.666582 ,  f kernel: 0.699202  
+
+ The peak -SNR value is 29.471569
+ The SNR value is 24.565832 
+
+hs 256x256
+
+Shared With Matlab Image: 258x258 patchSize: 3x3 
+Z kernel : 1.772798 ,  f kernel: 1.818675  
+
+ The peak -SNR value is 31.178295
+ The SNR value is 26.501896 
+
+
+Shared With Matlab Image: 258x258 patchSize: 3x3 
+Z kernel : 1.772577 ,  f kernel: 1.819604  
+
+ The peak -SNR value is 31.122910
+ The SNR value is 26.446507 
+
+
+Shared With Matlab Image: 260x260 patchSize: 5x5 
+Z kernel : 3.759753 ,  f kernel: 3.912343  
+
+ The peak -SNR value is 30.615103
+ The SNR value is 25.938702 
+
+
+Shared With Matlab Image: 260x260 patchSize: 5x5 
+Z kernel : 3.758292 ,  f kernel: 3.911454  
+
+ The peak -SNR value is 30.631554
+ The SNR value is 25.955154 
+
+
+Shared With Matlab Image: 262x262 patchSize: 7x7 
+Z kernel : 6.711209 ,  f kernel: 6.965559  
+
+ The peak -SNR value is 30.493053
+ The SNR value is 25.816652 
+
+
+Shared With Matlab Image: 262x262 patchSize: 7x7 
+Z kernel : 6.655502 ,  f kernel: 6.965748  
+
+ The peak -SNR value is 30.416489
+ The SNR value is 25.740088 
+
+
+Shared With Matlab Image: 262x262 patchSize: 7x7 
+Z kernel : 6.663218 ,  f kernel: 6.969990  
+
+ The peak -SNR value is 30.502195
+ The SNR value is 25.825794 
+
+baboon 256x256
+
+Shared With Matlab Image: 262x262 patchSize: 7x7
+Z kernel : 6.869792 ,  f kernel: 6.965339
+
+ The peak -SNR value is 25.552197
+ The SNR value is 21.117531
+
